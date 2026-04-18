@@ -1,0 +1,5 @@
+homepage: 'https://zingstack.com'
+documentation: 'https://github.com/Zingstack/gtm-umami-identify'
+versions:
+    - sha: aaa299cde22de0e8090831fb12b52a3d62c89c01
+      changeNotes: Initial release.
